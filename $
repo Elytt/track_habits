@@ -11,7 +11,7 @@
     </script>
 </head>
 <header class="bg-slate-50 text-slate-50 font-sans antialiased">
-    <nav class="bg-violet-800 text-white shadow-md">
+    <nav class="bg-purple-8 text-white shadow-md">
         <div class="max-w-5xl mx-auto px-4 py-3 flex justify-between items-center">
                 <a href="index.html" target="_blank" class="hover: text-[#6A5ACD] transition-colors">home</a>
                 <a href="our policies" target="_blank" class="hover: text-[#6A5ACD] transition-colors">our policies</a> 
