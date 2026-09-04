@@ -1,0 +1,11 @@
+{
+    "Travail": [],
+    "Sport": [
+        "entrainement"
+    ],
+    "Études": {
+        "Revisions aujourd'hui": [],
+        "Prochain examen": "Non défini",
+        "Prochain cours": "Rentrée"
+    }
+}
